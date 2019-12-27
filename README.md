@@ -8,3 +8,7 @@
 
 - [Continuous integration vs. continuous delivery vs. continuous deployment](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
 - [Why You Should Use Continuous Integration and Continuous Deployment](https://css-tricks.com/continuous-integration-continuous-deployment/)
+
+### Kubernetes
+
+- [Kubernetes for Full-Stack Developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
