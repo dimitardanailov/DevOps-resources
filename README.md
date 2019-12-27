@@ -1,4 +1,4 @@
-# DevOps-resources
+# What behinds DevOps
 
 ### DevOps and Software Configuration Management
 
