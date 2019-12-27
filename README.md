@@ -12,3 +12,7 @@
 ### Kubernetes
 
 - [Kubernetes for Full-Stack Developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
+
+### Azure 
+
+- [Azure This Week](https://acloud.guru/series/azure-this-week)
