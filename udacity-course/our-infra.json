@@ -50,6 +50,27 @@
 				]
 			}
 		},
+		"PublicRouteTable": {
+			"Type": "AWS::EC2::RouteTable",
+			"Properties": {
+				"Ref": "VPC",
+				"Tags": [
+					{
+						"Key": "Name",
+						"Value": {
+							"Fn::Sub": [
+								"${Output} Public Routes",
+								{
+									"Output": {
+										"Ref": "EnvironmentName"
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
 		"InternetGateway": {
 			"Type": "AWS::EC2::InternetGateway",
 			"Properties": {
