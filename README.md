@@ -16,3 +16,9 @@
 ### Azure 
 
 - [Azure This Week](https://acloud.guru/series/azure-this-week)
+
+### Google Cloud
+
+##### Google Cloud Next'19
+
+- [https://youtu.be/tNG4RUpBUso](Best Practices: GCP Resource Organization and Access Management (Cloud Next '19))
