@@ -13,7 +13,7 @@
 
 - [Kubernetes for Full-Stack Developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
 
-### Azure 
+### Azure
 
 - [Azure This Week](https://acloud.guru/series/azure-this-week)
 
@@ -22,3 +22,7 @@
 ##### Google Cloud Next'19
 
 - [https://youtu.be/tNG4RUpBUso](Best Practices: GCP Resource Organization and Access Management (Cloud Next '19))
+
+##### Google Cloud Next'18
+
+- [A Security Practitioners Guide to Best Practice GCP Security (Cloud Next '18)](https://youtu.be/ZQHoC0cR6Qw)
