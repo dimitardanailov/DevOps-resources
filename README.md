@@ -16,3 +16,7 @@
 ### Azure 
 
 - [Azure This Week](https://acloud.guru/series/azure-this-week)
+
+### Gooogle Cloud
+
+- [The Google Cloud Developer's Cheat Sheet](https://github.com/gregsramblings/google-cloud-4-words)
