@@ -19,6 +19,8 @@
 
 ### Google Cloud
 
+- [The Google Cloud Developer's Cheat Sheet](https://github.com/gregsramblings/google-cloud-4-words)
+
 ##### Google Cloud Next'19
 
 - [https://youtu.be/tNG4RUpBUso](Best Practices: GCP Resource Organization and Access Management (Cloud Next '19))
@@ -26,3 +28,7 @@
 ##### Google Cloud Next'18
 
 - [A Security Practitioners Guide to Best Practice GCP Security (Cloud Next '18)](https://youtu.be/ZQHoC0cR6Qw)
+
+##### Tips and tricks
+
+- [I accidentaly enabled the UFW on my Google Cloud Computer](https://serverfault.com/questions/945835/i-accidentaly-enabled-the-ufw-on-my-google-cloud-computer/946347#_=_)
