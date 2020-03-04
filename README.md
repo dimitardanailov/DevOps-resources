@@ -23,7 +23,7 @@
 
 ##### Google Cloud Next'19
 
-- [https://youtu.be/tNG4RUpBUso](Best Practices: GCP Resource Organization and Access Management (Cloud Next '19))
+- (Best Practices: GCP Resource Organization and Access Management)[https://youtu.be/tNG4RUpBUso]
 
 ##### Google Cloud Next'18
 
